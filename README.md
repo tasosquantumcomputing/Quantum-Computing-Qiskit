@@ -1,0 +1,1 @@
+This repository contains implementations of fundamental quantum computing concepts and core quantum algorithms using Qiskit. It progresses from single-qubit gates to advanced algorithms such as Grover’s and Shor’s, combining theoretical understanding with practical circuit simulations
